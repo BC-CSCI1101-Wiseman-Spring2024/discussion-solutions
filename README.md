@@ -1,2 +1,2 @@
 # discussion-solutions
-Solutions for discussion problems.
+Solutions for discussion problems in CSCI1101.
